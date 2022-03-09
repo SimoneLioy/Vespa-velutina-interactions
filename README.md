@@ -1,8 +1,8 @@
-[![GloBI review by Elton](https://github.com/globalbioticinteractions/template-dataset/actions/workflows/review.yml/badge.svg)](https://github.com/globalbioticinteractions/template-dataset/actions) [![Build Status](https://app.travis-ci.com/globalbioticinteractions/template-dataset.svg)](https://app.travis-ci.com/globalbioticinteractions/template-dataset) [![DOI](https://zenodo.org/badge/26293374.svg)](https://zenodo.org/badge/latestdoi/26293374) [![GloBI](https://api.globalbioticinteractions.org/interaction.svg?accordingTo=globi:globalbioticinteractions/template-dataset)](https://globalbioticinteractions.org/?accordingTo=globi:globalbioticinteractions/template-dataset) 
+[![GloBI](https://api.globalbioticinteractions.org/interaction.svg?accordingTo=globi:globalbioticinteractions/template-dataset)](https://globalbioticinteractions.org/?accordingTo=globi:globalbioticinteractions/template-dataset) 
 
 ## Interaction data on *Vespa velutina*
 
-Repository for uploading biotic interaction data of the Asian yellow-legged hornet *Vespa velutina* on GLOBI (Global Biotic Interactions).
+Repository for uploading biotic interaction data of the Asian yellow-legged hornet *Vespa velutina* on GLOBI (Global Biotic Interactions, http://globalbioticinteractions.org).
 
 Interactions were derived from the literature by consulting the following references:
 
@@ -18,9 +18,7 @@ Interactions were derived from the literature by consulting the following refere
 
 
 
-This repository provides an example on how to make your interaction data available through Global Biotic Interactions (GloBI, http://globalbioticinteractions.org) .
-
-If you have comments or questions please [open an issue](https://github.com/globalbioticinteractions/globalbioticinteractions/issues/new).
+## Instructions
 
 ## Share Your Interaction Data
 If you want to make your own data discoverable through GloBI:

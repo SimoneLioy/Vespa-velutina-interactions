@@ -1,5 +1,22 @@
 [![GloBI review by Elton](https://github.com/globalbioticinteractions/template-dataset/actions/workflows/review.yml/badge.svg)](https://github.com/globalbioticinteractions/template-dataset/actions) [![Build Status](https://app.travis-ci.com/globalbioticinteractions/template-dataset.svg)](https://app.travis-ci.com/globalbioticinteractions/template-dataset) [![DOI](https://zenodo.org/badge/26293374.svg)](https://zenodo.org/badge/latestdoi/26293374) [![GloBI](https://api.globalbioticinteractions.org/interaction.svg?accordingTo=globi:globalbioticinteractions/template-dataset)](https://globalbioticinteractions.org/?accordingTo=globi:globalbioticinteractions/template-dataset) 
 
+## Interaction data on Vespa velutina
+
+Repository for uploading biotic interaction data of the Asian yellow-legged hornet Vespa velutina on GLOBI (Global Biotic Interactions).
+
+Interactions were derived from the literature by consulting the following references:
+1. Ueno T (2015) Flower-visiting by the invasive hornet Vespa velutina nigrithorax (Hymenoptera: Vespidae). International Journal of Chemical, Environmental & Biological Sciences 3:444–448.
+2. Macià FX, Menchetti M, Corbella C, Grajera J, Vila R (2019) Exploitation of the invasive Asian Hornet Vespa velutina by the European Honey Buzzard Pernis apivorus. Bird Study 66:425–429.
+3. Chen G, Zhang Z, Chomicki G, Sun W (2020) The flip side of the coin: ecological function of the bee-hawking Asian hornet. Integrative Zoology 15:156–159.
+4. Wei W, Wu H, Li X, Wei X, Lu W, Zheng X (2019) Diversity, daily activity patterns, and pollination effectiveness of the insects visiting Camellia osmantha, C. vietnamensis, and C. oleifera in South China. Insects 10:98.
+5. Ries C, Schneider N, Vitali F, Weigand A (2021) First records and distribution of the invasive alien hornet Vespa velutina nigrithorax du Buysson, 1905 (Hymenoptera: Vespidae) in Luxembourg. Bulletin de la Société des naturalistes luxembourgeois 123:181–193.
+
+
+
+
+
+
+
 This repository provides an example on how to make your interaction data available through Global Biotic Interactions (GloBI, http://globalbioticinteractions.org) .
 
 If you have comments or questions please [open an issue](https://github.com/globalbioticinteractions/globalbioticinteractions/issues/new).

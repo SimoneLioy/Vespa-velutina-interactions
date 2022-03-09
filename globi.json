@@ -1,5 +1,7 @@
 { 
   "_comment": "Sample GloBI dataset descriptor. See http://github.com/globalbioticinteractions for more information.",
-  "citation": "Jorrit H. Poelen. 2014. Species associations manually extracted from literature.",
+  "citation": "Simone Lioy, Cristina Preda and Quentin Groom. 2022. Vespa velutina biotic interactions extracted from literature.",
+  "licence": "CC0",
+  "version": "1.0",
   "deprecated": false
 }
